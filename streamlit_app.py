@@ -8,10 +8,10 @@ from transformers import (
 )
 
 # --- Page configuration ---
-st.set_page_config(page_title="Emotion Classification", page_icon="🌟")
+st.set_page_config(page_title="Emotion Classifier", page_icon="🌟")
 
 # --- Title ---
-st.title("🌟 Emotion Classification")
+st.title("🌟 Emotion Classifier")
 st.divider()
 
 # Custom CSS to improve the app's appearance

@@ -1,6 +1,6 @@
 # Text-Classification---Bachelor-Thesis
 
-## Emotion Classification App
+## Emotion Classifier App
 
 This application classifies text into six emotional categories using a pre-trained BERT model. The available categories are Sadness, Joy, Love, Anger, Fear, and Surprise. The application also summarizes long texts before classification.
 
