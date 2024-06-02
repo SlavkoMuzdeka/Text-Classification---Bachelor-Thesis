@@ -61,7 +61,7 @@ st.sidebar.info(
 )
 
 
-@st.cache_resource
+@st.cache
 def load_model_and_tokenizer():
     """
     Loading pre-trained model, corresponding tokenizer and summarizer
